@@ -75,5 +75,5 @@ while True:
         print("TAHMİNİNİZ YANLIŞ")
         hak += 1
     if hak == 5:
-        print("HAKLARINIZ TÜKENMİŞTİR, ADAM ASILDI GG")
+        print("HAKLARINIZ TÜKENMİŞTİR.")
         break
